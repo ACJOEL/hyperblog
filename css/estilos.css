@@ -1,5 +1,13 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: red;;
+
+}
+
+.container{
+    align-content: center;
+    text-align: center;
+    width: 500px;
+    margin-left: 400px;
+    border: 1px solid red;
 }
